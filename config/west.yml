@@ -16,7 +16,7 @@ manifest:
     #  remote: gpeye
     #  revision: main
     - name: nice-view-gifs-o4q4o
-      remote: gpeye
+      remote: o4Q4o
       revision: bongo-cat 
     - name: zmk
       remote: zmkfirmware
