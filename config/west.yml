@@ -15,7 +15,7 @@ manifest:
     # - name: mario-peripheral-animation
     #  remote: gpeye
     #  revision: main 
-    - name: nice-view-gif                 # your repository name
+    - name: nice-view-gifs-o4q4o          # your repository name
       remote: gpeye                       # your username
       revision: bongo-cat                 # whatever branch you want
     - name: zmk
