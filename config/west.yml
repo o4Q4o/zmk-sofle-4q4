@@ -8,8 +8,8 @@ manifest:
       # - https://docs.zephyrproject.org/3.5.0/develop/west/manifest.html#projects
     - name: gpeye
       url-base: https://github.com/GPeye
-    - name: nice-view-gifs-o4q4o
-      url-base: https://github.com/nice-view-gifs-o4q4o
+    - name: o4Q4o
+      url-base: https://github.com/o4Q4o
   projects:
     - name: eyelash_sofle
       url: https://github.com/a741725193/zmk-sofle
@@ -17,9 +17,9 @@ manifest:
     # - name: mario-peripheral-animation
     #  remote: gpeye
     #  revision: main
-    - name: nice-view-gifs-o4q4o                 
-      remote: nice-view-gifs-o4q4o       
-      revision: bongo-cat                 
+    - name: nice-view-gifs-o4q4o
+      remote: o4Q4o
+      revision: bongo-cat                
     - name: zmk
       remote: zmkfirmware
       revision: main
