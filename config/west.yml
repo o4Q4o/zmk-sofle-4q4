@@ -9,7 +9,7 @@ manifest:
     - name: gpeye
       url-base: https://github.com/GPeye
     - name: o4Q4o
-      url-base: https://github.com/o4Q4o
+      url-base: https://github.com/danielsodium
   projects:
     - name: eyelash_sofle
       url: https://github.com/a741725193/zmk-sofle
@@ -17,7 +17,7 @@ manifest:
     # - name: mario-peripheral-animation
     #  remote: gpeye
     #  revision: main
-    - name: nice-view-gifs-o4q4o
+    - name: nice-view-gifs
       remote: o4Q4o
       revision: bongo-cat                
     - name: zmk
