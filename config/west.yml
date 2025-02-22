@@ -8,13 +8,18 @@ manifest:
       # - https://docs.zephyrproject.org/3.5.0/develop/west/manifest.html#projects
     - name: gpeye
       url-base: https://github.com/GPeye
+    - name: cat
+      url-base: https://github.com/o4Q4o
   projects:
     - name: eyelash_sofle
       url: https://github.com/a741725193/zmk-sofle
       revision: main
-    - name: hammerbeam-slideshow
-      remote: gpeye
-      revision: main            
+    #- name: hammerbeam-slideshow
+    #  remote: gpeye
+    #  revision: main
+    - name: cat-animation
+      remote: cat
+      revision: main  
     - name: zmk
       remote: zmkfirmware
       revision: main
