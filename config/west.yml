@@ -13,7 +13,7 @@ manifest:
   projects:
     - name: eyelash_sofle
       url: https://github.com/a741725193/zmk-sofle
-      revision: main
+      revision: refactor
     #- name: hammerbeam-slideshow
     #  remote: gpeye
     #  revision: main
