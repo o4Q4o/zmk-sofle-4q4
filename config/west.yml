@@ -8,7 +8,7 @@ manifest:
       # - https://docs.zephyrproject.org/3.5.0/develop/west/manifest.html#projects
     - name: gpeye
       url-base: https://github.com/GPeye
-    - name: cat
+    - name: rightScreen
       url-base: https://github.com/o4Q4o
   projects:
     - name: eyelash_sofle
@@ -17,9 +17,9 @@ manifest:
     #- name: hammerbeam-slideshow
     #  remote: gpeye
     #  revision: main
-    - name: cat-animation
-      remote: cat
-      revision: bongo_cat_widget
+    - name: hammerbeam-slideshow
+      remote: rightScreen
+      revision: main
     - name: zmk
       remote: zmkfirmware
       revision: main
